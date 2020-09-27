@@ -8,5 +8,6 @@
 
 ### Planning
 - Join all tables in the world_db from Codeup
+- MVP goal: Do enough analysis to be able to create a dataset to be ingested by Tableau and create a gradient world map of population and GNP. 
 - 
 
